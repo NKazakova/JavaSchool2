@@ -5,6 +5,6 @@ package com.kazakova;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Helfcdxlo!!!");
+        System.out.println("Helf cdxlo!!!");
     }
 }
